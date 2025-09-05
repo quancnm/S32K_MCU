@@ -16,19 +16,19 @@
 
 * The primary goal of a CISC processor is to **reduce the number of instructions** in a program, thereby **minimizing overall program size**.
 
-<table>
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <th style="width:70%">Advantages</th>
-    <th style="width:50%">Disadvantages</th>
+    <th style="width:50%; text-align:left;">Advantages</th>
+    <th style="width:50%; text-align:left;">Disadvantages</th>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align:top;">
       • The code size is comparatively <b>shorter</b>, which <b>minimizes the memory requirement</b>. <br><br>
       • Execution of <b>a single instruction</b> accomplishes <b>several low-level tasks</b>. <br><br>
       • Complex addressing modes make memory access flexible. <br><br>
       • CISC instructions can <b>directly access memory locations</b>.
     </td>
-    <td>
+    <td style="vertical-align:top;">
       • It requires <b>several clock cycles</b> to execute <b>a single instruction</b>, which reduces overall performance. <br><br>
       • Implementing pipelining for CISC instructions is more complicated. <br><br>
       • The hardware structure must be more complex to simplify software implementation. <br><br>
@@ -36,6 +36,7 @@
     </td>
   </tr>
 </table>
+
 
 ## Reduced Instruction Set Computer (RISC):
  **Reduced Instruction Set Computer (RISC)** is a type of microprocessor that is designed with a **large complex set of instructions**. 
