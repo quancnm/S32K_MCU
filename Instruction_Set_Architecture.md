@@ -16,6 +16,8 @@
 
 * The primary goal of a CISC processor is to **reduce the number of instructions** in a program, thereby **minimizing overall program size**.
 
+### Advantages and Disadvantages of CISC
+
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <th style="width:50%; text-align:left;">Advantages</th>
