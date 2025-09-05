@@ -49,9 +49,6 @@
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <th colspan="2" style="text-align:center;">Advantages and Disadvantages of RISC</th>
-  </tr>
-  <tr>
     <th style="width:50%; text-align:left;">Advantages</th>
     <th style="width:50%; text-align:left;">Disadvantages</th>
   </tr>
@@ -74,36 +71,15 @@
 
 
 
-# Comparison of RISC and CISC:
-## Cấu trúc tập lệnh
-|| RISC | CISC |                                                            
-|---|---|---|
-| Similarity  | Acts as an interface between machine code (software and microarchitecture)
-| Difference | RISC is a reduced instruction set| CISC is a complex instruction set                                |
+## Comparison of RISC and CISC
 
-## Tốc độ xử lý
-|| RISC | CISC |                                                            
-|---|---|---|
-| Similarity  | Acts as an interface between machine code (software and microarchitecture)
-| Difference | RISC is a reduced instruction set| CISC is a complex instruction set                                |
-
-## Kích thước chương trình
-|| RISC | CISC |                                                            
-|---|---|---|
-| Similarity  | Acts as an interface between machine code (software and microarchitecture)
-| Difference | RISC is a reduced instruction set| CISC is a complex instruction set                                |
-
-## Độ phức tạp phần cứng
-|| RISC | CISC |                                                            
-|---|---|---|
-| Similarity  | Acts as an interface between machine code (software and microarchitecture)
-| Difference | RISC is a reduced instruction set| CISC is a complex instruction set                                |
-
-## Ứng dụng thực tế
-|| RISC | CISC |                                                            
-|---|---|---|
-| Similarity  | Acts as an interface between machine code (software and microarchitecture)
-| Difference | RISC is a reduced instruction set| CISC is a complex instruction set                                |
+| **Criteria** | **CISC (Complex Instruction Set Computer)** | **RISC (Reduced Instruction Set Computer)** |
+|--------------|---------------------------------------------|---------------------------------------------|
+| **Instruction Set Architecture** | Large and complex instruction set; each instruction can perform multiple low-level operations. | Small and simple instruction set; each instruction performs a single, simple task. |
+| **Execution Speed** | Slower execution, as one instruction may require multiple clock cycles. | Faster execution, as most instructions complete in a single clock cycle. |
+| **Program Size** | Smaller program size, since fewer instructions are needed to perform a task. | Larger program size, as more instructions are required to accomplish the same task. |
+| **Hardware Complexity** | More complex hardware design to support complex instructions and addressing modes. | Simpler hardware design, optimized for instruction pipelining and parallel execution. |
+| **Practical Applications** | Widely used in traditional desktop and server processors (e.g., Intel x86, AMD). | Common in mobile devices, embedded systems, and modern processors (e.g., ARM, MIPS, RISC-V). |
 
 
 
