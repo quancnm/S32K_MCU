@@ -16,9 +16,26 @@
 
 * The primary goal of a CISC processor is to **reduce the number of instructions** in a program, thereby **minimizing overall program size**.
 
-| **Advantages** | **Disadvantages** |
-|----------------|-------------------|
-| • The code size is comparatively **shorter**, which **minimizes the memory requirement**. <br><br> • Execution of **a single instruction** accomplishes **several low-level tasks**. <br><br> • Complex addressing modes make memory access flexible. <br><br> • CISC instructions can **directly access memory locations**. | • It requires **several clock cycles** to execute **a single instruction**, which reduces overall performance. <br><br> • Implementing pipelining for CISC instructions is more complicated. <br><br> • The hardware structure must be more complex to simplify software implementation. <br><br> • CISC was designed when memory was smaller and costlier; today, memory is inexpensive and abundant, making this design less efficient. |
+<table>
+  <tr>
+    <th style="width:50%">Advantages</th>
+    <th style="width:50%">Disadvantages</th>
+  </tr>
+  <tr>
+    <td>
+      • The code size is comparatively <b>shorter</b>, which <b>minimizes the memory requirement</b>. <br><br>
+      • Execution of <b>a single instruction</b> accomplishes <b>several low-level tasks</b>. <br><br>
+      • Complex addressing modes make memory access flexible. <br><br>
+      • CISC instructions can <b>directly access memory locations</b>.
+    </td>
+    <td>
+      • It requires <b>several clock cycles</b> to execute <b>a single instruction</b>, which reduces overall performance. <br><br>
+      • Implementing pipelining for CISC instructions is more complicated. <br><br>
+      • The hardware structure must be more complex to simplify software implementation. <br><br>
+      • CISC was designed when memory was smaller and costlier; today, memory is inexpensive and abundant, making this design less efficient.
+    </td>
+  </tr>
+</table>
 
 ### *Advantages*
 * The code size is comparatively **shorter** which **minimizes the memory requirement**.
