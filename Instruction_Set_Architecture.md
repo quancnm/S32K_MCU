@@ -95,7 +95,20 @@
     <tr>
       <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Program Size</td>
       <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Smaller program size, since fewer instructions are needed to perform a task.</td>
-      <td style="vertical-align:top; padding:8px; border-
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Larger program size, as more instructions are required to accomplish the same task.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Hardware Complexity</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">More complex hardware design to support complex instructions and addressing modes.</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Simpler hardware design, optimized for instruction pipelining and parallel execution.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Practical Applications</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Widely used in traditional desktop and server processors (e.g., Intel x86, AMD).</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Common in mobile devices, embedded systems, and modern processors (e.g., ARM, MIPS, RISC-V).</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
