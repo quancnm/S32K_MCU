@@ -16,6 +16,10 @@
 
 * The primary goal of a CISC processor is to **reduce the number of instructions** in a program, thereby **minimizing overall program size**.
 
+| **Advantages** | **Disadvantages** |
+|----------------|-------------------|
+| • The code size is comparatively **shorter**, which **minimizes the memory requirement**. <br><br> • Execution of **a single instruction** accomplishes **several low-level tasks**. <br><br> • Complex addressing modes make memory access flexible. <br><br> • CISC instructions can **directly access memory locations**. | • It requires **several clock cycles** to execute **a single instruction**, which reduces overall performance. <br><br> • Implementing pipelining for CISC instructions is more complicated. <br><br> • The hardware structure must be more complex to simplify software implementation. <br><br> • CISC was designed when memory was smaller and costlier; today, memory is inexpensive and abundant, making this design less efficient. |
+
 ### *Advantages*
 * The code size is comparatively **shorter** which **minimizes the memory requirement**.
 
