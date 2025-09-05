@@ -73,15 +73,41 @@
 
 ## Comparison of RISC and CISC
 
-| **Criteria** | **CISC (Complex Instruction Set Computer)** | **RISC (Reduced Instruction Set Computer)** |
-|--------------|---------------------------------------------|---------------------------------------------|
-| **Instruction Set Architecture** | Large and complex instruction set; each instruction can perform multiple low-level operations. | Small and simple instruction set; each instruction performs a single, simple task. |
-| **Execution Speed** | Slower execution, as one instruction may require multiple clock cycles. | Faster execution, as most instructions complete in a single clock cycle. |
-| **Program Size** | Smaller program size, since fewer instructions are needed to perform a task. | Larger program size, as more instructions are required to accomplish the same task. |
-| **Hardware Complexity** | More complex hardware design to support complex instructions and addressing modes. | Simpler hardware design, optimized for instruction pipelining and parallel execution. |
-| **Practical Applications** | Widely used in traditional desktop and server processors (e.g., Intel x86, AMD). | Common in mobile devices, embedded systems, and modern processors (e.g., ARM, MIPS, RISC-V). |
+<table style="width:100%; border-collapse:collapse; table-layout:fixed; font-family:inherit;">
+  <thead>
+    <tr>
+      <th style="width:20%; text-align:left; padding:8px; border-bottom:1px solid #ddd;">Criteria</th>
+      <th style="width:40%; text-align:left; padding:8px; border-bottom:1px solid #ddd;">CISC (Complex Instruction Set Computer)</th>
+      <th style="width:40%; text-align:left; padding:8px; border-bottom:1px solid #ddd;">RISC (Reduced Instruction Set Computer)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Instruction Set Architecture</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Large and complex instruction set; each instruction can perform multiple low-level operations.</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Small and simple instruction set; each instruction performs a single, simple task.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Execution Speed</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Slower execution, as one instruction may require multiple clock cycles.</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Faster execution, as most instructions complete in a single clock cycle.</td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Program Size</td>
+      <td style="vertical-align:top; padding:8px; border-top:1px solid #eee;">Smaller program size, since fewer instructions are needed to perform a task.</td>
+      <td style="vertical-align:top; padding:8px; border-
 
 
 
-# Personal thoughts:
-I believe that in today’s world, RISC architectures are becoming increasingly suitable for embedded systems due to their high efficiency in power consumption and the simplicity of their hardware design. Since embedded devices often operate on limited battery resources, the low power requirements of RISC processors make them ideal for ensuring longer device lifespans. Moreover, the simpler hardware not only reduces manufacturing costs but also makes the processors more reliable and easier to integrate into compact systems.
+
+# Personal opinion:
+
+RISC is more suitable for modern embedded systems due to:
+
+* Offers higher execution speed and better pipelining.
+
+* Consumes less power, ideal for mobile and IoT devices.
+
+* Simpler hardware design, easier to implement and cost-effective.
+
+* Widely adopted in practice (ARM, RISC-V) → industry standard.
