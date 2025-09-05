@@ -37,25 +37,6 @@
   </tr>
 </table>
 
-### *Advantages*
-* The code size is comparatively **shorter** which **minimizes the memory requirement**.
-
-* Execution of **a single instruction** accomplishes **several low-level tasks**.
-
-* Complex addressing mode makes the memory access flexible.
-
-* CISC instruction can **directly access memory locations**.
-
-### *Disadvantages*
-* It requires **several clock cycles** to execute **a single instruction**, which reduce the overall performance of the computer.
-
-* Implementing pipelining for CISC instruction is a bit complicated.
-
-* The hardware structure needs to be more complex to simplify software implementation.
-
-* Designed to minimize the memory requirement when memory was smaller and costlier. But today the scenario has changed nowadays memory is inexpensive and mostly all computers have a large amount of memory.
-
-
 ## Reduced Instruction Set Computer (RISC):
  **Reduced Instruction Set Computer (RISC)** is a type of microprocessor that is designed with a **large complex set of instructions**. 
 
