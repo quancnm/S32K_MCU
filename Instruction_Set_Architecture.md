@@ -7,6 +7,7 @@
 * The ISA defines the various **instructions**, **registers** and **memory addressing** modes that the processor would support, at a hardware level. Software created to run on an ISA would be designed to use the ISA's instructions, register and memory addressing modes.
 
 
+
 ## Complex Instruction Set Computer (CISC): 
 
  **Complex Instruction Set Computer (CISC)** is a type of microprocessor that is designed with a **large complex set of instructions**. 
@@ -32,6 +33,7 @@
 * The hardware structure needs to be more complex to simplify software implementation.
 
 * Designed to minimize the memory requirement when memory was smaller and costlier. But today the scenario has changed nowadays memory is inexpensive and mostly all computers have a large amount of memory.
+
 
 ## Reduced Instruction Set Computer (RISC):
  **Reduced Instruction Set Computer (RISC)** is a type of microprocessor that is designed with a **large complex set of instructions**. 
