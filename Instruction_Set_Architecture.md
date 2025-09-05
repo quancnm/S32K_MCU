@@ -45,29 +45,33 @@
 
 * The main objective of a CISC processor is to minimize the program size by reducing the number of instructions in a program.
 
-### *Advantages*
+### Advantages and Disadvantages of RISC
 
-* There are very fewer instructions in RISC instruction set.
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <th colspan="2" style="text-align:center;">Advantages and Disadvantages of RISC</th>
+  </tr>
+  <tr>
+    <th style="width:50%; text-align:left;">Advantages</th>
+    <th style="width:50%; text-align:left;">Disadvantages</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:top;">
+      • There are very few instructions in the RISC instruction set. <br><br>
+      • RISC instructions have simple addressing modes. <br><br>
+      • Each RISC instruction executes in a single clock cycle. <br><br>
+      • RISC executes faster because most instructions operate on processor registers, avoiding frequent memory access. <br><br>
+      • Pipelining is easier since all RISC instructions are of fixed size with opcode and operand in the same position. 
+    </td>
+    <td style="vertical-align:top;">
+      • Although RISC instructions are smaller, more instructions are required to perform an operation compared with CISC. <br><br>
+      • Machine instructions are hardwired in RISC, making modifications costly. <br><br>
+      • It struggles with complex instructions and complex addressing modes. <br><br>
+      • RISC does not allow direct memory-to-memory transfers; it requires separate Load and Store instructions.
+    </td>
+  </tr>
+</table>
 
-* RISC instruction has simple addressing modes.
-
-* RISC instructions execute one instruction per clock cycle.
-
-* RISC instruction executes faster because most of instruction operates on processor register and there is no need to access memory for each instruction.
-
-* It is easy to pipeline RISC instruction as all instruction is of fixed size and opcode and operand are located in the same position in the word.
-
-
-
-### *Disadvantages*
-
-* RISC instruction size is reduced but more instructions are required to perform an operation when compared with CISC
-
-* The machine instructions are hardwired in RISC so, it would cost if any instruction needs modification.
-
-* It finds is difficulty in processing complex instruction and complex addressing mode.
-
-* RISC instructions do not allow direct memory to memory transfer, it requires Load and Store instructions to do so.
 
 
 # Comparison of RISC and CISC:
