@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <th style="width:50%">Advantages</th>
+    <th style="width:70%">Advantages</th>
     <th style="width:50%">Disadvantages</th>
   </tr>
   <tr>
