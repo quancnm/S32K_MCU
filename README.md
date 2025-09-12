@@ -6,7 +6,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 # Content
 
 <details>
-  <summary><span style="font-size:22px;">Embedded systems and Embedded software development</span></summary>
+  <summary><span style="font-size:22px;">Embedded systems and Embedded software development</span></summary><br/>&nbsp;
 
   - Embedded System Introduction  
   - Embedded Software Overview and Basic  
@@ -15,14 +15,14 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Common Microcontroller Software Interface Standard (CMSIS)</span></summary>
+  <summary><span style="font-size:22px;">Common Microcontroller Software Interface Standard (CMSIS)</span></summary><br/>&nbsp;
 
   - Common Microcontroller Software Interface Standard (CMSIS)
 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Overview of S32K144</span></summary>
+  <summary><span style="font-size:22px;">Overview of S32K144</span></summary><br/>&nbsp;
 
   - Overview on S32K144 EVB Board  
   - Overview on Development IDE: S32 Design Studio  
@@ -31,7 +31,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">ARM Cortex-M architecture</span></summary>
+  <summary><span style="font-size:22px;">ARM Cortex-M architecture</span></summary><br/>&nbsp;
 
   - Describe about the programmer model in ARM Cortex-M  
   - Explain on Instruction Set Architecture
@@ -39,7 +39,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Exception and Interrupt</span></summary>
+  <summary><span style="font-size:22px;">Exception and Interrupt</span></summary><br/>&nbsp;
 
   - Interrupt Management in ARM Cortex-M  
   - Organization of Vector Table  
@@ -49,7 +49,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Peripheral in S32K144</span></summary>
+  <summary><span style="font-size:22px;">Peripheral in S32K144</span></summary><br/>&nbsp;
 
   - Peripheral ADC/DAC  
   - Peripherals PIT Timer  
@@ -60,7 +60,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Mock project</span></summary>
+  <summary><span style="font-size:22px;">Mock project</span></summary><br/>&nbsp;
 
   - Practice With S32K144 Board and Mock Project
 
