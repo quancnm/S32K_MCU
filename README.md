@@ -6,7 +6,7 @@ This repo provides an overview of embedded MCU systems using the S32K144. It inc
 
 <details>
   <summary>
-    <span style="font-size: 21px;">
+    <span style="font-size: 22px;">
       Embedded systems and Embedded software development
     </span>
   </summary>
@@ -19,7 +19,7 @@ This repo provides an overview of embedded MCU systems using the S32K144. It inc
 
 <details>
   <summary>
-    <span style="font-size: 21px;">
+    <span style="font-size: 22px;">
       Common Microcontroller Software Interface Standard (CMSIS)
     </span>
   </summary>
@@ -30,7 +30,7 @@ This repo provides an overview of embedded MCU systems using the S32K144. It inc
 
 <details>
   <summary>
-    <span style="font-size: 21px;">
+    <span style="font-size: 22px;">
       Overview of S32K144
     </span>
   </summary>
@@ -43,7 +43,7 @@ This repo provides an overview of embedded MCU systems using the S32K144. It inc
 
 <details>
   <summary>
-    <span style="font-size: 21px;">
+    <span style="font-size: 22px;">
       ARM cortex-M architecture
     </span>
   </summary>
@@ -55,36 +55,12 @@ This repo provides an overview of embedded MCU systems using the S32K144. It inc
 
 <details>
   <summary>
-    <span style="font-size: 21px;">
+    <span style="font-size: 22px;">
       Exception and Interrupt
     </span>
   </summary>
 
-  - Interrupt Management in ARM Cortex-M  
-  - Organization of Vector Table  
-  - Some important registers: NVIC & SCB  
-  - Exceptions sequence and handling optimization techniques
-
-</details>
-
-<details>
-  <summary>
-    <span style="font-size: 21px;">
-      Peripheral in S32K144
-    </span>
-  </summary>
-
-  - Peripheral ADC/DAC  
-  - Peripherals PIT Timer  
-  - Peripheral I2C  
-  - Peripheral SPI  
-  - Peripherals UART
-
-</details>
-
-<details>
-  <summary>
-    <span style="font-size: 21px;">
+  - Interrupt Managem22px;">
       Mock project
     </span>
   </summary>
