@@ -15,7 +15,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Common Microcontroller Software Interface Standard (CMSIS)</span></summary><br/>&nbsp;
+  <summary><span style="font-size:22px;">Common Microcontroller Software Interface Standard (CMSIS)</span></summary><br/>;
 
   - Common Microcontroller Software Interface Standard (CMSIS)
 
