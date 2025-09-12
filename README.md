@@ -9,6 +9,7 @@ This repo provides an overview of embedded MCU systems using the S32K144. It inc
     <span style="font-size: 22px;">
       Embedded systems and Embedded software development
     </span>
+    
   </summary>
 
   - Embedded System Introduction  
@@ -22,6 +23,7 @@ This repo provides an overview of embedded MCU systems using the S32K144. It inc
     <span style="font-size: 22px;">
       Common Microcontroller Software Interface Standard (CMSIS)
     </span>
+    
   </summary>
 
   - Common Microcontroller Software Interface Standard (CMSIS)
