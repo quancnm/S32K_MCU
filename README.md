@@ -6,7 +6,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 # Content
 
 <details>
-  <summary><span style="font-size:22px;">Embedded systems and Embedded software development</span></summary><br/>&nbsp;
+  <summary><span style="font-size:22px;">Embedded systems and Embedded software development</span></summary>&nbsp;
 
   - Embedded System Introduction  
   - Embedded Software Overview and Basic  
