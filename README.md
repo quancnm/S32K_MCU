@@ -60,7 +60,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Mock project</span></summary><br/>&nbsp;
+  <summary><span style="font-size:22px;">Mock project</span></summary>&nbsp;
 
   - Practice With S32K144 Board and Mock Project
 
