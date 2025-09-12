@@ -15,14 +15,14 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Common Microcontroller Software Interface Standard (CMSIS)</span></summary><br/>;
+  <summary><span style="font-size:22px;">Common Microcontroller Software Interface Standard (CMSIS)</span></summary>&nbsp;
 
   - Common Microcontroller Software Interface Standard (CMSIS)
 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Overview of S32K144</span></summary><br/>&nbsp;
+  <summary><span style="font-size:22px;">Overview of S32K144</span></summary>&nbsp;
 
   - Overview on S32K144 EVB Board  
   - Overview on Development IDE: S32 Design Studio  
@@ -31,7 +31,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">ARM Cortex-M architecture</span></summary><br/>&nbsp;
+  <summary><span style="font-size:22px;">ARM Cortex-M architecture</span></summary>&nbsp;
 
   - Describe about the programmer model in ARM Cortex-M  
   - Explain on Instruction Set Architecture
@@ -39,7 +39,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Exception and Interrupt</span></summary><br/>&nbsp;
+  <summary><span style="font-size:22px;">Exception and Interrupt</span></summary>&nbsp;
 
   - Interrupt Management in ARM Cortex-M  
   - Organization of Vector Table  
@@ -49,7 +49,7 @@ It includes foundational embedded-systems knowledge, details about the S32K144, 
 </details>
 
 <details>
-  <summary><span style="font-size:22px;">Peripheral in S32K144</span></summary><br/>&nbsp;
+  <summary><span style="font-size:22px;">Peripheral in S32K144</span></summary>&nbsp;
 
   - Peripheral ADC/DAC  
   - Peripherals PIT Timer  
