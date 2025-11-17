@@ -1,10 +1,8 @@
-# Embedded Systems – Lecture 1 Summary
+# Embedded Systems and Embedded software development
 
 ---
 
 ## 1. Embedded System Introduction
-<details open>
-<summary><strong>Click to collapse/expand</strong></summary>
 
 ### 1.1. Definition
 An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints. It is embedded as part of a complete device often including hardware and mechanical parts.
@@ -26,13 +24,9 @@ An embedded system is a computer system with a dedicated function within a large
 - The program written for embedded system is called **firm-ware**, and usually stored in persistence memory (rom/flash).  
 - The firm-ware can run with limited hardware resourced.  
 
-</details>
-
 ---
 
 ## 2. Microcontroller & Microprocessor
-<details open>
-<summary><strong>Click to collapse/expand</strong></summary>
 
 ### 2.1. Difference between Microcontroller & Microprocessor
 
@@ -43,26 +37,28 @@ An embedded system is a computer system with a dedicated function within a large
 ---
 
 ### 2.2. Microcontroller overview
+
 MCU is integrated electronic computing device that includes three major components on a single chip:
 + Microprocessor  
 + Memory  
 + I/O ports
+
 ![Microcontroller](img_lec_1/Microcontroller.png)
+
 ---
 
 ### 2.3. Microprocessor overview
-The microprocessor is a multipurpose, programmable device that accepts digital data as input, processes it according to instructions stored in its memory, and provides results as output.
-![Microprocessor](img_lec_1/Microprocessor.png)
 
-</details>
+The microprocessor is a multipurpose, programmable device that accepts digital data as input, processes it according to instructions stored in its memory, and provides results as output.
+
+![Microprocessor](img_lec_1/Microprocessor.png)
 
 ---
 
 ## 3. Processor Architecture
-<details open>
-<summary><strong>Click to collapse/expand</strong></summary>
 
 ### 3.1. Microprocessor architecture
+
 Communicates with Memory and I/O using the System Bus:
 
 - **Address bus**  
@@ -76,29 +72,23 @@ Communicates with Memory and I/O using the System Bus:
 - **Control lines**  
   + Read and Write timing signals  
 
-![System Bus](img_lec_1/ISA.png)
-
 ---
 
 ### 3.2. Von-neumann architecture and Harvard
-![Von Neumann vs Harvard](img_lec_1/Von_Neumann_Harvard.png)
 
-</details>
+![Von Neumann vs Harvard](img_lec_1/Von_Neumann_Harvard.png)
 
 ---
 
 ## 4. Instruction Set Architecture (ISA)
-<details open>
-<summary><strong>Click to collapse/expand</strong></summary>
 
 ### 4.1. Definition
 ISA is the part of the computer architecture related to programming, including the native data types, instructions, registers, addressing modes, memory architecture, interrupt and exception handling, and external I/O.
 
+![System Bus](img_lec_1/ISA.png)
+
 ---
 
 ### 4.2. Comparison between CISC & RISC
-
-
-</details>
 
 ---
